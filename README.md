@@ -1,4 +1,4 @@
-# mybudgethack2017project
+# Budget Hack 2017: The Barrel
 
 This repo is for the project I worked on throughout the State Government of Victoria Budget Hack 2017 event.
 (Link for Official Website for Budget Hack 2017: https://www.budget.vic.gov.au/budgethack)
