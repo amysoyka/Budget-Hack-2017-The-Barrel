@@ -6,8 +6,6 @@ This repo is for the project I worked on throughout the State Government of Vict
 The final project, as upon the completion of the hackathon, can be seen here: http://u.osmfr.org/m/146359/
 Initially the project started of as a sub-branch of an identical project - but evolved into a project based on its own merit.
 
-[Budget-Hack-2017-The-Barrel/TheBarrelScreenshot.png](Budget-Hack-2017-The-Barrel/TheBarrelScreenshot.png)
-
 Datasets that contributed to this project were:
 Victorian State Budget 2017 (Point)
 https://data.aurin.org.au/dataset/vic-govt-dtf-vic-govt-budget-2017-point-na
